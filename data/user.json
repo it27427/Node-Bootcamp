@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Mohammad Abdur Rahman",
+    "email": "abdur.rahman@gmail.com",
+    "phone": "+8801753421543",
+    "address": "Tejgaon, Dhaka, Bangladesh",
+    "postcode": 1215
+  },
+  {
+    "id": 1,
+    "name": "HTMA Riad",
+    "email": "htma.riad@gmail.com",
+    "phone": "+8801653158234",
+    "address": "Uttara, Dhaka, Bangladesh",
+    "postcode": 1230
+  },
+  {
+    "id": 2,
+    "name": "Abu Rayhan Rubel",
+    "email": "abu.rayhan@gmail.com",
+    "phone": "+8801578975612",
+    "address": "Motijheel, Dhaka, Bangladesh",
+    "postcode": 1222
+  },
+  {
+    "id": 3,
+    "name": "Sarwar Jahan",
+    "email": "sarwar.jahan@gmail.com",
+    "phone": "+8801312438976",
+    "address": "Khilkhet, Dhaka, Bangladesh",
+    "postcode": 1229
+  },
+  {
+    "id": 4,
+    "name": "Aminul Islam Tuhin",
+    "email": "aminul.islam@gmail.com",
+    "phone": "+8801823657856",
+    "address": "Mohammadpur, Dhaka, Bangladesh",
+    "postcode": 1207
+  },
+  {
+    "id": 5,
+    "name": "Kamran Hasan Rabbi",
+    "email": "kamran.hasan@gmail.com",
+    "phone": "+8801456789012",
+    "address": "Banani, Dhaka, Bangladesh",
+    "postcode": 1213
+  },
+  {
+    "id": 6,
+    "name": "Rukunuzzaman Rinu",
+    "email": "rukunuzzaman.rinu@gmail.com",
+    "phone": "+8801686336626",
+    "address": "Dhanmondi, Dhaka, Bangladesh",
+    "postcode": 1209
+  },
+  {
+    "id": 7,
+    "name": "Toufiqur Rahman Topu",
+    "email": "toufiq.topu@gmail.com",
+    "phone": "+8801712345678",
+    "address": "Mirpur, Dhaka, Bangladesh",
+    "postcode": 1218
+  },
+  {
+    "id": 8,
+    "name": "Shahir Khan",
+    "email": "shahir.khan@gmail.com",
+    "phone": "+8801612345678",
+    "address": "Palton, Dhaka, Bangladesh",
+    "postcode": 1000
+  },
+  {
+    "id": 9,
+    "name": "Abdullah Al Mamun",
+    "email": "abdullah.almamun@gmail.com",
+    "phone": "+8801965088417",
+    "address": "Lalbag, Dhaka, Bangladesh",
+    "postcode": 1211
+  }
+]

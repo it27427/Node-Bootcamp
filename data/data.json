@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quas dolorum illo sapiente, dolorem inventore molestias repellendus dolore incidunt id."
+  },
+  {
+    "id": 1,
+    "productName": "Goat and Sheep Cheese",
+    "from": "Portugal",
+    "image": "🧀",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo aut autem numquam amet iure natus error facilis ratione saepe aliquid consectetur harum delectus nulla dolores sint odio, a cupiditate veniam."
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "from": "Italy",
+    "image": "🥦",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore magni dolorum iste, sit cupiditate harum architecto, nostrum tempora nobis enim blanditiis repellat aliquam magnam ullam veniam, inventore quis eveniet quibusdam illum temporibus perferendis distinctio porro vel aliquid! Sapiente, cum? Inventore?"
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "from": "France",
+    "image": "🥕",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam obcaecati ea suscipit necessitatibus eaque eveniet culpa aliquam error, nemo aut maxime est repellat odio quod cumque nesciunt dolorem voluptatem ullam asperiores omnis tenetur voluptate expedita? Mollitia fugiat perspiciatis unde praesentium, blanditiis quibusdam at eos quam necessitatibus quisquam aut ratione ullam."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Popcorn",
+    "from": "Germany",
+    "image": "🍿",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "100g 🍿",
+    "price": "2.00",
+    "organic": false,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tenetur iste fugiat iure earum ullam, mollitia inventore libero exercitationem? Dolores ut laudantium sint commodi dolore, iste optio corporis inventore sapiente maxime labore, vero facilis reprehenderit quidem natus accusamus quibusdam, qui aperiam! Commodi nisi accusamus expedita beatae quod eos sint architecto! Vero assumenda nulla culpa facilis quaerat blanditiis laudantium, doloremque quis."
+  }
+]

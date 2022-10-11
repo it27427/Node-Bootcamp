@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{%PRODUCTNAME%} {%IMAGE%} - Node Farm</title>
+    <link
+      rel="shortcut icon"
+      href="http://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/155/ear-of-maize_1f33d.png"
+      type="image/png"
+    />
+    
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Megrim&family=Nunito+Sans&display=swap");
+      html {
+        font-size: 62.5%;
+        box-sizing: border-box;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      body {
+        background: linear-gradient(to bottom right, hsl(92deg, 69%, 62%), hsl(166deg, 100%, 45%));
+        color: hsl(0deg, 0%, 33%);
+        background-repeat: no-repeat;
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 1rem;
+        font-weight: normal;
+        line-height: 1.5;
+        margin: 0;
+        min-height: 100vh;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: "Megrim", cursive;
+      }
+
+      h6 {
+        font-size: 1rem;
+      }
+
+      .not-organic {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🥦 Node Farm 🥕</h1>
+
+      <figure class="product">
+        <div class="product__organic {%NOT_ORGANIC%}">
+          <h5>Organic</h5>
+        </div>
+        <a href="/overview" class="product__back">
+          <span class="emoji-left">👈</span> Back
+        </a>
+        <div class="product__hero">
+          <span class="product__emoji product__emoji--1">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--2">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--3">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--4">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--5">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--6">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--7">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--8">{%IMAGE%}</span>
+          <span class="product__emoji product__emoji--9">{%IMAGE%}</span>
+        </div>
+        <h1 class="product__name">{%PRODUCTNAME%}</h1></h1>
+        <div class="product__details">
+          <p><span class="emoji-left">🌍 </span>From {%FROM%}</p>
+          <p><span class="emoji-left">💙 </span>{%NUTRIENTS%}</p>
+          <p><span class="emoji-left">📦 </span>{%QUANTITY%}</p>
+          <p><span class="emoji-left">🏷 </span>{%PRICE%} &euro;</p>
+        </div>
+
+        <a href="#" class="product__link">
+          <span class="emoji-left">🧺</span>
+          <span>Add to basket ({%PRICE%} &euro;)</span>
+        </a>
+
+        <p class="product__description">
+          {%DESCRIPTION%}
+        </p>
+      </figure>
+    </div>
+  </body>
+</html>
