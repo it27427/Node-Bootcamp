@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it27427/Node-Bootcamp.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Node",
+    "Modules",
+    "Backend",
+    "API"
+  ],
+  "author": "Istiak Hossain Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it27427/Node-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/it27427/Node-Bootcamp#readme"
+}
