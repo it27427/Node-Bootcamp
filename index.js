@@ -4,6 +4,7 @@ const url = require('url')
 const path = require('path')
 
 // SERVER SETTINGS
+// const port = process.env.PORT || 7000
 const port = 7000
 const host = '127.0.0.1'
 

@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/it27427/Node-Bootcamp/issues"
   },
-  "homepage": "https://github.com/it27427/Node-Bootcamp#readme"
+  "homepage": "https://github.com/it27427/Node-Bootcamp#readme",
+  "dependencies": {
+    "vite-node": "^0.24.1"
+  }
 }
