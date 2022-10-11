@@ -1,5 +1,6 @@
 # Node-Bootcamp
 
-Master branch for node core modules
-Project name: Node Farm
-Live Demo: 
+<p>Master branch for node core modules<p>
+## Project name: Node Farm
+<p>Live Demo: <p>
+[GitHub](url)
